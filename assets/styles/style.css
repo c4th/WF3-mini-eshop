@@ -1,0 +1,36 @@
+header {
+	height: 100px;
+}
+
+#logo {
+	background: url('../images/logo.png') center no-repeat;
+	height: 100px;
+	text-indent: -9999px;
+}
+
+header nav ul,
+footer nav ul {
+	background: lavenderblush;
+	color: saddlebrown;
+}
+
+header nav a,
+footer nav a {
+	color: saddlebrown;
+}
+
+header nav a:hover,
+footer nav a:hover {
+	color: saddlebrown;
+	background: mistyrose;	
+}
+
+
+div.content {
+	min-height: 400px;
+	margin: 30px;
+}
+
+h1, .h1 {
+	text-align: center;
+}
